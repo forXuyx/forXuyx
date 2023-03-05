@@ -1,6 +1,8 @@
 ### ✨ Knowledge and action should go hand in hand
 
 <p>Hi, 👋  I'm Yuxiang Xu！
+  
+<em>💕 <b>Favorite</b> 🍋🐠！！！</em>
 
 <em>Welcome to my code world. <b>Let's go!!!</b></em>
   
