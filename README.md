@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/zhicheng-ning" class="rich-diff-level-one">
+  <a href="https://github.com/forXuyx" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=forXuyx&count_private=true&show_icons=true&title_color=333&text_color=777" alt="forXuyx's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=forXuyx&hide=issues&title_color=333&text_color=777" alt="forXuyx's Stats" >
