@@ -49,8 +49,8 @@
 ### 🐯 Brief Introduction
 
 - 🏫 I’m currently a master student on **<a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a>**, majoring in **Data Science**
-- 🌱 I’m currently learning **Golang**
-- 📫 You can get in touch with me by email at [523185731@qq.com](mailto:523185731@qq.com)
+- 🌱 I’m currently learning **lightning**
+- 📫 You can get in touch with me by email at [xuyuxiang22@mails.ucas.ac.cn](mailto:xuyuxiang22@mails.ucas.ac.cn)
 
 ---
 
