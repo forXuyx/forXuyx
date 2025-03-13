@@ -26,7 +26,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: avivajpeyi
+          user: forXuyx
           template: classic
           base: activity, repositories, metadata
           base_indepth: yes
