@@ -66,7 +66,7 @@ I am a Doctoral student at the University of Chinese Academy of Sciences (UCAS).
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=forXuyx&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=forXuyx&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
@@ -78,4 +78,6 @@ I am a Doctoral student at the University of Chinese Academy of Sciences (UCAS).
 <br>
 
 <div align="center">
-  <img src="
+  <img src="https://komarev.com/ghpvc/?username=forXuyx&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <p>Thanks for visiting!</p>
+</div>
