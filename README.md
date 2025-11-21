@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="image_1.jpg" width="100%" alt="A tech-styled robot on Earth observing a black hole and meteor showers">
-</div>
-
----
-
-<div align="center">
 
 # Hi there! I'm Yuxiang Xu 👋
 
