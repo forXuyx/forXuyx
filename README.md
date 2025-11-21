@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image_1.png" width="100%" alt="A tech-styled robot on Earth observing a black hole and meteor showers">
+  <img src="https://github.com/forXuyx/forXuyx/blob/main/image_1.jpg" width="100%" alt="A tech-styled robot on Earth observing a black hole and meteor showers">
 </div>
 
 ---
