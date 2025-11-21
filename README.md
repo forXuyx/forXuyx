@@ -8,7 +8,15 @@
 
 # Hi there! I'm Yuxiang Xu 👋
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Doctoral+Student+at+UCAS;AI+%26+CV+Researcher;Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br>
+
 **Researcher | Developer | Explorer**
+
+<br>
 
 <a href="https://scholar.google.com/citations?user=GqhdvkoAAAAJ&hl=zh-CN">
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
@@ -58,19 +66,16 @@ I am a Doctoral student at the University of Chinese Academy of Sciences (UCAS).
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forXuyx/forXuyx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/forXuyx/forXuyx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/forXuyx/forXuyx/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=forXuyx&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=forXuyx&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forXuyx&layout=compact&theme=radical&hide_border=true" height="165" alt="languages graph" />
+
+</div>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=forXuyx&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forXuyx&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-
-</div>
-
 <div align="center">
-  <p>Thanks for visiting!</p>
-</div>
+  <img src="
